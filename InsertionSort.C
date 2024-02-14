@@ -5,7 +5,7 @@ int i,j,key,n;
 int A[100];
 clrscr();
 printf("***INSERTION SORT***");
-printf("Enter the size of array :");
+printf("\nEnter the size of array :");
 scanf("%d",&n);
 printf("\nEnter the elements: \n");
 for(i=0;i<n;i++){
